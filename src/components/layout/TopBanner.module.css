@@ -1,0 +1,19 @@
+.banner {
+  background-color: var(--primary-red);
+  color: var(--pure-white);
+  text-align: center;
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+}
+
+.text {
+  margin: 0;
+}
+
+.link {
+  text-decoration: underline;
+  font-weight: 600;
+}
+.link:hover {
+  text-decoration: none;
+}
